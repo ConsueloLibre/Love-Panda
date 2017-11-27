@@ -1,0 +1,74 @@
+section#title{
+    background: #f1928c;
+    color: white;
+    text-align: right;
+    padding-top: 27px;
+    padding-bottom: 27px;
+
+
+}
+.one{
+  background-image: url(../images/uno.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+section#rayita{
+  background: #f1928c;
+}
+
+section#first_text{
+  background: #a0eaa0;
+}
+/*.about_pandas{
+
+  background: #f1928c;
+  color: white; */
+
+.texto {
+    background: #f1928c;
+    color: white;
+    margin-left: 480px;
+    margin-right: 350px;
+    padding-top: 0px;
+    margin-top: 65px;
+    margin-bottom: 66px;
+}
+.two{
+  background-image: url(../images/dos.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+section#mani_pics{
+  background: #a0eaa0;
+}
+.pictures {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 38px;
+    letter-spacing: 1px;
+}
+.three{
+  background-image: url(../images/tres.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+h5{
+  color: white;
+  text-align: right;
+}
+
+  img {
+    padding: 0px;
+    border: solid white 11px;
+    margin: 23px;
+}
+.fotos{
+  padding-left: 302px;
+}
